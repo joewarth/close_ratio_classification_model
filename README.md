@@ -4,7 +4,17 @@ This project builds a **classification model for close rate**, with the goal of 
 
 The intent is to serve as a portfolio piece: if you arrived here from my personal website, this repo is a clear, well-structured example of how I approach training and evaluating classification models focused on **probability quality**, not just raw discrimination.
 
-```
+---
+
+## How to Navigate
+
+First, read this README. See the below Repository Layout section for a quick summary of the layout.
+
+For non-technical audience, I recommend focusing on the presentations folder. This contains PDF versions of slide decks for meetings I would have on a regular basis with stakeholders.
+
+For a technical audience, the presentations generally align with the notebooks folder. These are the raw source for the presentations. All the code that builds the materials can be found here.
+
+Everything else 
 
 ## Problem Overview
 
@@ -46,4 +56,5 @@ hit_rate_model/
 ├─ notebooks/
 │  ├─ 01_eda.ipynb    # Exploratory data analysis and initial preprocessing
 │  └─ utils.py        # Helper functions for notebooks
+├─ presentations/     # PDF versions of slide decks used to give status updates to stakeholders         
 └─ src/

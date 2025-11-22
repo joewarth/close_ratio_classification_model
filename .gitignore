@@ -5,3 +5,4 @@ env/
 ENV/
 .ipynb_checkpoints/
 .vscode/
+*.pptx
