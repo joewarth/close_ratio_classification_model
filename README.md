@@ -44,4 +44,6 @@ hit_rate_model/
 │  ├─ raw/            # Raw data
 │  └─ processed/      # Final modeling datasets
 ├─ notebooks/
+│  ├─ 01_eda.ipynb    # Exploratory data analysis and initial preprocessing
+│  └─ utils.py        # Helper functions for notebooks
 └─ src/
