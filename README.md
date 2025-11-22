@@ -14,7 +14,7 @@ For non-technical audience, I recommend focusing on the presentations folder. Th
 
 For a technical audience, the presentations generally align with the notebooks folder. These are the raw source for the presentations. All the code that builds the materials can be found here.
 
-Everything else 
+Everything else is technical in nature with documentation found below.
 
 ## Problem Overview
 
